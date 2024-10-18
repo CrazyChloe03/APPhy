@@ -373,7 +373,7 @@ Eat poop. Don't eat poop. Okay.
 
 
 
-# FRQ Section
+# FRQ Section a
 
 . F r q.
 
@@ -406,6 +406,15 @@ Okay? Point is 8. 2. Looks like a layer. Nice level.
 What you do? 2 in 8. Okay. Hey. English.
 
 Okay? It's English. Okay. It's not. Okay.
+
+
+
+
+
+
+
+# FRQ Section b
+
 
 Our next challenge for us must okay. Here. I remember May specifically asking me about this type of stuff in one of, the executes. There is an external force. Somebody external.
 
@@ -441,9 +450,17 @@ Alright? So that's the difference. Okay? I have to hold it back from wanting to 
 
 Any questions? Oh. Any questions? So No. Like, everything I need is the same.
 
+
+
+
+
 Work done is positive. Work done by the external forces. Okay? Alright? The work required to move an individual proton from far away to point x.
 
 Okay. Now we have to differentiate between point x and point y. I mean, I'll put it over there. And I'll put it over there. Okay?
+
+
+
+# FRQ Section c
 
 Now there w x, w y. Justify your answer using the concept of electrical potential. Electric potential. Some of you don't even mention electric potential. I'll try electric potential.
 
@@ -470,6 +487,10 @@ So at y, you have less electric potential than at x. Okay? Can you say like that
 You have to push it. X, you end up having a higher potential than this one. So you need to put in more work to place it at x. Okay? So w x is higher because the electric potential at point x is higher because when you add the electric potential from each charge, x is closer to both positively charged particles.
 
 Okay? And then y is closer to one that's negative and one that's positive. Okay? Positive. So excess more.
+
+
+
+# FRQ Section d
 
 And then what is it? D. Now you this is expressions, by the way, are correct. If you actually add all the electric potential from each charge at point x and at point y, they are correct. By the way, this is a basic arithmetic.
 
