@@ -1,4 +1,4 @@
-
+# Bull Shit
 With the 5. Yeah. We may have nobody with the 5 from this class. But I'm not sure if I made this clear in my class. If I think you deserve a 5, I try my best to equate that to getting an a in this class.
 
 Okay? If I think you deserve a 4 in your a t, then it kinda equates to getting a b in this class. Well, of course, the basis is super nice, they curve it for you. So if you end up with a b here, and then end up getting a 4 and they actually fix it, then it actually turns into a, which is kinda good for you. But at least what it is, while you're taking the course, it'd be kinda closer to b.
@@ -44,7 +44,7 @@ Well, let's go over this. Okay? You probably need more time to go over this. Nex
 You don't even know what's going on here with electrostatics. You may think, oh, mister Kim never taught us this. I do. Okay? I don't have to teach you every little things that you need to know based on the knowledge that you've had before.
 
 Stuff like it's a vector quantity. It's a scalar quantity. What does it imply? You need to care about direction. You need to you don't need to care about direction if it's scalar.
-
+ 
 So that was, like, the actual biggest problem in the FRQ. I said electric field is a vector. Okay? You keep potential lines, they are scalar. I think, more than half of you forgot about that fact and then did something weird.
 
 Okay? Alright? So, well, we'll get there. I hope, this is a learning experience. Okay?
@@ -52,8 +52,7 @@ Okay? Alright? So, well, we'll get there. I hope, this is a learning experience.
 Some of you did really well. I'm proud of you. Some of you didn't. I hope that, you will learn. And then if you learn, then I'll be I'll be proud of you if you learn from this experience.
 
 
-
-
+# MCQ Question 1
 
 Okay? Alright. So this is what's happening in a very small isolated sphere which turns positive q, existing in an empty region of space. A second very small sphere is moved from far away, far away to over here, far away to over here. It's positive, that's over here.
 
@@ -91,7 +90,12 @@ And then the charge times the potential equals to potential energy. Right? And y
 
 That's basically what happened. So that energy divided by distance is equal to the force required to push it through that. Okay? Average force. Any questions?
 
-Everybody got it? Okay. Number 2. I think this was the only capacitor question here. You'll get more, I think, the next unit because the capacitors are used in a circuit.
+Everybody got it? Okay. 
+
+
+# MCQ Question 2
+
+Number 2. I think this was the only capacitor question here. You'll get more, I think, the next unit because the capacitors are used in a circuit.
 
 Okay? Alright? The figure shows 2 different capacitors made of identical parallel, conducting plates in capacitor 1. The plates are separated by different d. We're gonna be in this equation.
 
@@ -117,7 +121,12 @@ This is a Greek letter. I thought it was just k. It's not. It's k. It's k.
 
 It's k. You're right. It looks like this. It's like this. Okay.
 
-Any question about this one? No. Okay. Alright. Spirit x and spirit y.
+Any question about this one? No. Okay. Alright. 
+
+
+# MCQ Question 3
+
+Spirit x and spirit y.
 
 Most of you messed up here. Small solid spirit x is made of an insulating material. Okay? So sphere x, the charges inside are not really gonna be moving freely. Okay.
 
@@ -132,6 +141,9 @@ So when you put them what the when you put them what's wrong with this? Oh, what
 Right? Oh. Because it's not gonna. So the answer is c. Okay?
 
 Oh, let's o o o. Make sense? Yeah. Does this make sense? Yeah.
+
+
+# MCQ Question 4
 
 Yeah. Okay. Number 4. Number 4. This is a classic AP Physics 2 kind of a question.
 
@@ -151,6 +163,11 @@ Hey. Hey. Hey. Yeah. I've heard you.
 
 Any questions? Any questions? Any questions? No. Okay.
 
+
+
+# MCQ Question 5
+
+
 5. Oh, so this is like an induction kind of problem. Right? And some polarization of charges inside a conductor. A b c.
 
 A has positive q, and b c are uncharged. Sphere b is here in context. Oh, this is totally charged by induction right here. Okay? I made you do it.
@@ -169,6 +186,12 @@ Yeah. Yeah. Yeah. D was the only choice with c or b as negative. Yeah.
 
 Okay? Okay. Any question about this 1? No. Okay.
 
+
+
+# MCQ Question 6
+
+
+
 6. This 1, AD? Okay. Never mind. A small amount of charges placed on both an isolated conducting sphere and an isolated insulating sphere.
 
 So you have one conduct zone. One insulator. Okay? For both charges added at a small area at the top of the sphere, After a few seconds, we're on each of the sphere. So the insulating 1 14 about that.
@@ -182,6 +205,11 @@ So Insulating 1, the charges are not gonna be traveling freely in its body. They
 But soon after, it'll reach try to reach an electrosteady equilibrium by spreading it. Right? Because that's what happens. Right? On a conductor, it'll all go to the surface, on the surface evenly, right, if it's a sphere.
 
 Okay? That's why. Okay? Spread over the surface. Exactly.
+
+
+
+
+# MCQ Question 7
 
 Number 7. I mean, this test wasn't really that hard. This test really wasn't that hard. I think I should I mean, like, it's such a breeze. Right?
 
@@ -219,7 +247,14 @@ I'm a robot. But then there is actually a problem that asks you to know that if 
 
 Alright? I think that was. Alright? Okay. This one over here.
 
-These guys these guys, man, a lot of people, I guess, forgot about, how equipotential lines would look like over here. Especially for number 9. But let's say, let's look at number 8. You see the situation? Do you remember the situation?
+These guys these guys, man, a lot of people, I guess, forgot about, how equipotential lines would look like over here. Especially for number 9. But let's say, let's look at number 8. 
+
+
+
+# MCQ Question 8
+
+
+You see the situation? Do you remember the situation?
 
 Yes. So which of the following hay? Okay. Which of the following best describes the location of a point other than infinity at which the so we are limited to these three regions. We're not going off to infinity and beyond.
 
@@ -255,7 +290,14 @@ Yeah. Yeah. Yes. Yeah. Yes.
 
 Okay. Okay. You don't have to. I think they know. They know it based on this high school.
 
-Explanation. Okay. Number 9, I think number 1, this is where you started to forget that the potential is scalar. Potential is scalar. So you calculate a certain value at certain point.
+Explanation. Okay. 
+
+
+
+
+# MCQ Question 9
+
+Number 9, I think number 1, this is where you started to forget that the potential is scalar. Potential is scalar. So you calculate a certain value at certain point.
 
 You calculate a certain value at this point from the other charge. You just add it. There is no direction in in electric potential. Right? So let me erase it.
 
@@ -285,7 +327,14 @@ Oh, yeah. So so she needs well, you means that this line is on region 1 and 2. Y
 
 Right? Where if they have the same amount of charge, it'll be like a straight line, the zero one. But it's not, so it's gonna be more like this. Okay? It'll be like, woah, like this, and then like, woah, like this.
 
-Okay. Number 10. Any questions so far? So far so good? So far so good.
+Okay. 
+
+
+
+# MCQ Question 10
+
+
+Number 10. Any questions so far? So far so good? So far so good.
 
 We have so fast. So we use so fast. So easy? So far so fast. So far so simple.
 
@@ -313,7 +362,20 @@ Okay. Alright? Okay. Okay. So did you say And another way of reasoning is that t
 
 Right? Right? That's perpendicular to the surface. And if you connect and then I told you, your potential line is also perpendicular to the electric field. So if you connect it, it just it just follows the surface.
 
-Eat poop. Don't eat poop. Okay. 11. F r q.
+Eat poop. Don't eat poop. Okay. 
+
+
+
+
+
+
+
+
+
+
+# FRQ Section
+
+. F r q.
 
 I didn't intend this to happen. I did not intend hey. Listen. Everybody listening. I didn't intend this to happen, but it turned out, this problem was, like, almost exactly the same problem as, 2 years ago.
 
