@@ -1,4 +1,7 @@
-# Bull Shit
+# Transcript of Unit 2 Test
+
+
+### Bull Shit
 With the 5. Yeah. We may have nobody with the 5 from this class. But I'm not sure if I made this clear in my class. If I think you deserve a 5, I try my best to equate that to getting an a in this class.
 
 Okay? If I think you deserve a 4 in your a t, then it kinda equates to getting a b in this class. Well, of course, the basis is super nice, they curve it for you. So if you end up with a b here, and then end up getting a 4 and they actually fix it, then it actually turns into a, which is kinda good for you. But at least what it is, while you're taking the course, it'd be kinda closer to b.
@@ -51,8 +54,8 @@ Okay? Alright? So, well, we'll get there. I hope, this is a learning experience.
 
 Some of you did really well. I'm proud of you. Some of you didn't. I hope that, you will learn. And then if you learn, then I'll be I'll be proud of you if you learn from this experience.
 
-
-# MCQ Question 1
+## MCQ Section
+### MCQ Question 1
 
 Okay? Alright. So this is what's happening in a very small isolated sphere which turns positive q, existing in an empty region of space. A second very small sphere is moved from far away, far away to over here, far away to over here. It's positive, that's over here.
 
@@ -93,7 +96,7 @@ That's basically what happened. So that energy divided by distance is equal to t
 Everybody got it? Okay. 
 
 
-# MCQ Question 2
+### MCQ Question 2
 
 Number 2. I think this was the only capacitor question here. You'll get more, I think, the next unit because the capacitors are used in a circuit.
 
@@ -124,7 +127,7 @@ It's k. You're right. It looks like this. It's like this. Okay.
 Any question about this one? No. Okay. Alright. 
 
 
-# MCQ Question 3
+### MCQ Question 3
 
 Spirit x and spirit y.
 
@@ -143,7 +146,7 @@ Right? Oh. Because it's not gonna. So the answer is c. Okay?
 Oh, let's o o o. Make sense? Yeah. Does this make sense? Yeah.
 
 
-# MCQ Question 4
+### MCQ Question 4
 
 Yeah. Okay. Number 4. Number 4. This is a classic AP Physics 2 kind of a question.
 
@@ -165,7 +168,7 @@ Any questions? Any questions? Any questions? No. Okay.
 
 
 
-# MCQ Question 5
+### MCQ Question 5
 
 
 5. Oh, so this is like an induction kind of problem. Right? And some polarization of charges inside a conductor. A b c.
@@ -188,7 +191,7 @@ Okay? Okay. Any question about this 1? No. Okay.
 
 
 
-# MCQ Question 6
+### MCQ Question 6
 
 
 
@@ -209,7 +212,7 @@ Okay? That's why. Okay? Spread over the surface. Exactly.
 
 
 
-# MCQ Question 7
+### MCQ Question 7
 
 Number 7. I mean, this test wasn't really that hard. This test really wasn't that hard. I think I should I mean, like, it's such a breeze. Right?
 
@@ -251,7 +254,7 @@ These guys these guys, man, a lot of people, I guess, forgot about, how equipote
 
 
 
-# MCQ Question 8
+### MCQ Question 8
 
 
 You see the situation? Do you remember the situation?
@@ -295,7 +298,7 @@ Explanation. Okay.
 
 
 
-# MCQ Question 9
+### MCQ Question 9
 
 Number 9, I think number 1, this is where you started to forget that the potential is scalar. Potential is scalar. So you calculate a certain value at certain point.
 
@@ -331,7 +334,7 @@ Okay.
 
 
 
-# MCQ Question 10
+### MCQ Question 10
 
 
 Number 10. Any questions so far? So far so good? So far so good.
@@ -372,8 +375,9 @@ Eat poop. Don't eat poop. Okay.
 
 
 
+## FRQ Section
 
-# FRQ Section a
+### FRQ Section a
 
 . F r q.
 
@@ -413,7 +417,7 @@ Okay? It's English. Okay. It's not. Okay.
 
 
 
-# FRQ Section b
+### FRQ Section b
 
 
 Our next challenge for us must okay. Here. I remember May specifically asking me about this type of stuff in one of, the executes. There is an external force. Somebody external.
@@ -460,7 +464,7 @@ Okay. Now we have to differentiate between point x and point y. I mean, I'll put
 
 
 
-# FRQ Section c
+### FRQ Section c
 
 Now there w x, w y. Justify your answer using the concept of electrical potential. Electric potential. Some of you don't even mention electric potential. I'll try electric potential.
 
@@ -490,7 +494,7 @@ Okay? And then y is closer to one that's negative and one that's positive. Okay?
 
 
 
-# FRQ Section d
+### FRQ Section d
 
 And then what is it? D. Now you this is expressions, by the way, are correct. If you actually add all the electric potential from each charge at point x and at point y, they are correct. By the way, this is a basic arithmetic.
 
